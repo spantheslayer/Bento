@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'spantheslayer',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox=',
 		},
 		{
 			id: '3',
@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://soundcloud.com/discover',
 		},
 		{
 			id: '2',
@@ -112,7 +112,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.in/',
 		},
 		{
 			id: '5',
